@@ -1,0 +1,1 @@
+/* * $Id: ConfigurableWindow.java,v 1.1 2005/09/07 18:52:04 oz Exp $ * */package javaoceanatlas.utility;public interface ConfigurableWindow {	public void showConfigDialog();}
